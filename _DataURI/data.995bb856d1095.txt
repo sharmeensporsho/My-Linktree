@@ -1,0 +1,1 @@
+chrome-extension://glngapejbnmnicniccdcemghaoaopdji/extract-package-info.605807e3.js
